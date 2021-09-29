@@ -2,14 +2,14 @@
 ### CONTENT ###
 
 # The question you want to ask
-text: Is your complaint about a healthcare provider, insurance provider, or data processing company?
+text: Am I immunocompromized??
 
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "Yes, it is"
+  - text: "Yes"
     path: question-2
-  - text: "No, none of these apply"
+  - text: "No, healthy as a horse"
     path: q1-exit
 
 # Whether this question includes related resources (yes or no)
